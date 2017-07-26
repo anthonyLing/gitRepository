@@ -8,5 +8,5 @@ stupid man
 vim operation
 中文显示千万不要乱码
 update master file
-merge file on git
+merge file on github
 
